@@ -1,0 +1,117 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: The Asset
+    text: Peak Performance
+    button: Learn More
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    text:
+    section: services
+    list:
+      - title: "Google Workspace"
+        desc: "The Asset began as a Google reseller, and this remains a core service to this day."
+        icon: fas fa-google #find more at https://fontawesome.com/icons
+      - title: "Digital Tools / SaaS"
+        desc: "The Asset assists all sizes of businesses from solo entrepreneur to enterprise, curating, configuring, and integrating digital tools to streamline workflows"
+        icon: fas fa-circle-nodes
+      - title: "Product Design"
+        desc: "The Asset assists companies looking to build services or online tools, operating as the product owner, manager, and scrum master to get the job done"
+        icon: fas fa-screwdriver-wrench
+
+  portfolio:
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
+    section: portfolio
+    closebutton: "Close Project"
+
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "The Asset started as nothing more than Jon helping his friends and family to fix their computers, but as word of mouth grew, he found it more and more difficult to balance alongside his day job. Once he started working with local businesses, he realized it was time to get serious, and this is when The Asset was born. The company takes its name from "assets" used in spy/subterfuge operations, and was inspired by the Jason Bourne movies where "assets" are highly skilled operatives who have a wide set of skills across all domains"
+    section: about
+
+  clients:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "Canadian Geographic"
+        url: https://canadiangeographic.ca
+        logo: assets/img/clients/Canadian_Geographic.jpg
+      - title: "Canadian Heritage"
+        url: https://www.canada.ca/en/canadian-heritage.html
+        logo: assets/img/clients/CanadianHeritage-Logo.jpg
+      - title: "Every Canadian Counts"
+        url: https://everycanadiancounts.com
+        logo: assets/img/clients/ECC-Logo.jpg
+      - title: "Heritage Funeral Complex"
+        url: https://heritagefh.ca
+        logo: assets/img/clients/Heritage-Logo.jpg
+      - title: "Craft & Crew"
+        url: https://craftandcrew.ca
+        logo: assets/img/clients/Craft&Crew.jpg
+
+  team:
+    title: "WHO IS THE ASSET?"
+    text: "Learn more about the man behind the name"
+    subtext: Jon Moore was born in the UK, and immigrated to Canada with his family in the early 80s. He was exposed to Macintosh computers from a young age, and quickly showed an affiliation for all things technology. During his time at university, he realized he knew more than his professors, and chose to pursure learning on his own, through hands-on experimentation.
+    section: team
+    people:
+      - name: "Jon Moore"
+        role: "Chief Deployment Officer"
+        image: assets/img/team/2.jpg
+        social:
+          - url: https://twitter.com/engagetheasset
+            icon: fab fa-twitter
+          - url: https://twitter.com/jondotgov
+            icon: fab fa-twitter
+          - url: https://www.linkedin.com/in/engagetheasset/
+            icon: fab fa-linkedin-in
+
+  contact:
+    title: "Contact Us"
+    text: "Leave us a message or find us on Telegram @theasset"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com/engagetheasset
+        icon: "fab fa-twitter"
+      - url: https://www.linkedin.com/in/engagetheasset/
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/th3ass3t/th3ass3t.github.io
+        icon: "fab fa-github"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+en-ES:
+  <<: *DEFAULT_EN
