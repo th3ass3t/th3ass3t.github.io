@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Google Workspace"
         desc: "The Asset began as a Google reseller, and this remains a core service to this day."
-        icon: fa-brands fa-google #find more at https://fontawesome.com/icons
+        icon: fas fa-google #find more at https://fontawesome.com/icons
       - title: "Digital Tools / SaaS"
         desc: "The Asset assists all sizes of businesses from solo entrepreneur to enterprise, curating, configuring, and integrating digital tools to streamline workflows"
-        icon: fa-duotone fa-circle-nodes
+        icon: fas fa-circle-nodes
       - title: "Product Design / Management"
         desc: "The Asset assists companies looking to build services or online tools, operating as the product owner, manager, and scrum master to get the job done"
-        icon: fa-duotone fa-screwdriver-wrench
+        icon: fas fa-screwdriver-wrench
 
   portfolio:
     title: "Portfolio"
