@@ -44,7 +44,7 @@ timeline:
     # left is the default
     #start_align: "left"
     events:
-    
+
   about:
     title: "About Us"
     text: "our story"
