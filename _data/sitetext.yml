@@ -27,7 +27,7 @@ en: &DEFAULT_EN
       - title: "Digital Tools / SaaS"
         desc: "The Asset assists all sizes of businesses from solo entrepreneur to enterprise, curating, configuring, and integrating digital tools to streamline workflows"
         icon: fas fa-circle-nodes
-      - title: "Product Design / Management"
+      - title: "Product Design"
         desc: "The Asset assists companies looking to build services or online tools, operating as the product owner, manager, and scrum master to get the job done"
         icon: fas fa-screwdriver-wrench
 
