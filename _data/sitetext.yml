@@ -40,7 +40,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "The Asset started as nothing more than Jon helping his friends and family to fix their computers, but as word of mouth grew, he found it more and more difficult to balance alongside his day job. Once he started working with local businesses, he realized it was time to get serious, and this is when The Asset was born. The company takes its name from "assets" used in spy/subterfuge operations, and was inspired by the Jason Bourne movies where "assets" are highly skilled operatives who have a wide set of skills across all domains"
     section: about
 
   clients:
@@ -48,7 +48,7 @@ en: &DEFAULT_EN
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
     list:
-      - title: "envato"
+      - title: "Canadian Geographic"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
@@ -64,7 +64,7 @@ en: &DEFAULT_EN
   team:
     title: "WHO IS THE ASSET?"
     text: "Learn more about the man behind the name"
-    subtext:
+    subtext: Jon Moore was born in the UK, and immigrated to Canada with his family in the early 80s. He was exposed to Macintosh computers from a young age, and quickly showed an affiliation for all things technology. During his time at university, he realized he knew more than his professors, and chose to pursure learning on his own, through hands-on experimentation.
     section: team
     people:
       - name: "Jon Moore"
