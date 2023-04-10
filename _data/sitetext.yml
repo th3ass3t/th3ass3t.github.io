@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text:
+    text: "A History of The Asset"
     section: timeline
     # left is the default
     #start_align: "left"
