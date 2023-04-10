@@ -49,17 +49,20 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Canadian Geographic"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
-      - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
-      - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://canadiangeographic.ca
+        logo: assets/img/clients/Canadian_Geographic.jpg
+      - title: "Canadian Heritage"
+        url: https://www.canada.ca/en/canadian-heritage.html
+        logo: assets/img/clients/CanadianHeritage-Logo.jpg
+      - title: "Every Canadian Counts"
+        url: https://everycanadiancounts.com
+        logo: assets/img/clients/ECC-Logo.jpg
+      - title: "Heritage Funeral Complex"
+        url: https://heritagefh.ca
+        logo: assets/img/clients/Heritage-Logo.jpg
+      - title: "Craft & Crew"
+        url: https://craftandcrew.ca
+        logo: assets/img/clients/Craft&Crew.jpg
 
   team:
     title: "WHO IS THE ASSET?"
