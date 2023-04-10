@@ -96,7 +96,7 @@ en: &DEFAULT_EN
         logo: assets/img/clients/Craft&Crew.jpg
 
   team:
-  title: "WHO IS THE ASSET?"
+    title: "WHO IS THE ASSET?"
     text: "Learn more about the man behind the name"
     subtext: Jon Moore was born in the UK, and immigrated to Canada with his family in the early 80s. He was exposed to Macintosh computers from a young age, and quickly showed an affiliation for all things technology. During his time at university, he realized he knew more than his professors, and chose to pursure learning on his own, through hands-on experimentation.
     section: team
