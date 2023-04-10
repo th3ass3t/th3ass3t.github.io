@@ -45,23 +45,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2010-2015"
+        year: "2008-2012"
         desc: "While working at Telus Mobility as a Device Specialist, Jon also worked (for free) for family and friends as 'MooreWorks'"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "Out on his own"
-        year: "March 2015"
-        desc: "In early 2015, Jon landed his first major contract with a large company, and this was all he needed to rebrand as 'The Asset', and to quit his job to run his company full-time"
+      - title: "A Taste for Success"
+        year: "March 2012"
+        desc: "In early 2012, Jon landed his first 'GSuite' client, paving the way for things to come. He continued to maintain another job with a Telus business-to-business franchise"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Out on his own"
+        year: "2015"
+        desc: "In 2015, Jon landed his first major contract with a large company, and this was all he needed to rebrand as ‘The Asset’, and to quit his job to run his company full-time"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "A Parallel Shift"
+        year: "October 2021"
+        desc: "In 2021, Jon landed a casual contract with the public service, and decided to try things on for size for a few months to see how it might pan out. Fast forward to 2023 and he hasn't stopped, leaning into each opportunity as a way to expand his skillset."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
