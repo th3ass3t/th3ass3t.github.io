@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "The Asset started as nothing more than Jon helping his friends and family to fix their computers, but as word of mouth grew, he found it more and more difficult to balance alongside his day job. Once he started working with local businesses, he realized it was time to get serious, and this is when The Asset was born. The company takes its name from "assets" used in spy/subterfuge operations, and was inspired by the Jason Bourne movies where "assets" are highly skilled operatives who have a wide set of skills across all domains"
+    body: "The Asset started as nothing more than Jon helping his friends and family to fix their computers, but as word of mouth grew, he found it more and more difficult to balance alongside his day job. Once he started working with local businesses, he realized it was time to get serious, and this is when The Asset was born. The company takes its name from 'assets' used in spy/subterfuge operations, and was inspired by the Jason Bourne movies where 'assets' are highly skilled operatives who have a wide set of skills across all domains"
     section: about
 
   clients:
